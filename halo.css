@@ -56,7 +56,7 @@
   flex-direction: row;
 }
 
-.flexWrap {
+.flex-wrap {
   flex-wrap: wrap;
 }
 
@@ -80,7 +80,7 @@
   align-items: baseline;
 }
 
-.alignItemsStretch {
+.align-items-stretch {
   align-items: stretch;
 }
 
