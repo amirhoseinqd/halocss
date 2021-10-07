@@ -11,3 +11,13 @@
     font-family: 'Poppins', sans-serif;
 }
 /* Global Styles */
+
+/* Directions */
+.ltr {
+    direction: ltr;
+}
+
+.rtl {
+    direction: rtl;
+}
+/* Directions */
