@@ -21,3 +21,22 @@
     direction: rtl;
 }
 /* Directions */
+
+/* Display */
+.displayNone {
+    display: none;
+}
+
+.displayBlock {
+    display: block;
+}
+
+.displayInline {
+    display: inline;
+}
+
+.displayInlineBlock {
+    display: inline-block;
+}
+/* Display */
+
