@@ -482,3 +482,29 @@
   padding-bottom: 5rem;
 }
 /* Padding */
+
+/* Z-Index */
+.zIndex-0 {
+  z-index: 0;
+}
+
+.zIndex-1 {
+  z-index: 1;
+}
+
+.zIndex-2 {
+  z-index: 2;
+}
+
+.zIndex-3 {
+  z-index: 3;
+}
+
+.zIndex-4 {
+  z-index: 4;
+}
+
+.zIndex-5 {
+  z-index: 5;
+}
+/* Z-Index */
