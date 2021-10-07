@@ -483,6 +483,36 @@
 }
 /* Padding */
 
+/* Position */
+.positionRelative {
+  position: relative;
+}
+
+.positionAbsolute {
+  position: absolute;
+}
+
+.positionFixed {
+  position: fixed;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.right-0 {
+  right: 0;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.left-0 {
+  left: 0;
+}
+/* Position */
+
 /* Z-Index */
 .zIndex-0 {
   z-index: 0;
