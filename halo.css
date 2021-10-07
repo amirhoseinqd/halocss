@@ -109,6 +109,62 @@
 }
 /* Flex */
 
+/* Position */
+.positionRelative {
+  position: relative;
+}
+
+.positionAbsolute {
+  position: absolute;
+}
+
+.positionFixed {
+  position: fixed;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.right-0 {
+  right: 0;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.left-0 {
+  left: 0;
+}
+/* Position */
+
+/* Z-Index */
+.zIndex-0 {
+  z-index: 0;
+}
+
+.zIndex-1 {
+  z-index: 1;
+}
+
+.zIndex-2 {
+  z-index: 2;
+}
+
+.zIndex-3 {
+  z-index: 3;
+}
+
+.zIndex-4 {
+  z-index: 4;
+}
+
+.zIndex-5 {
+  z-index: 5;
+}
+/* Z-Index */
+
 /* Margin */
 .m-0 {
   margin: 0;
@@ -482,59 +538,3 @@
   padding-bottom: 5rem;
 }
 /* Padding */
-
-/* Position */
-.positionRelative {
-  position: relative;
-}
-
-.positionAbsolute {
-  position: absolute;
-}
-
-.positionFixed {
-  position: fixed;
-}
-
-.top-0 {
-  top: 0;
-}
-
-.right-0 {
-  right: 0;
-}
-
-.bottom-0 {
-  bottom: 0;
-}
-
-.left-0 {
-  left: 0;
-}
-/* Position */
-
-/* Z-Index */
-.zIndex-0 {
-  z-index: 0;
-}
-
-.zIndex-1 {
-  z-index: 1;
-}
-
-.zIndex-2 {
-  z-index: 2;
-}
-
-.zIndex-3 {
-  z-index: 3;
-}
-
-.zIndex-4 {
-  z-index: 4;
-}
-
-.zIndex-5 {
-  z-index: 5;
-}
-/* Z-Index */
