@@ -157,6 +157,24 @@
 }
 /* Align */
 
+/* Float */
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-none {
+  float: none;
+}
+
+.float-inherit {
+  float: inherit;
+}
+/* Float */
+
 /* Z-Index */
 .z-index-0 {
   z-index: 0;
@@ -642,3 +660,17 @@
   opacity: 1;
 }
 /* Opacity */
+
+/* Shadow */
+.small-shadow {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.shadow {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.large-shadow {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+}
+/* Shadow */
