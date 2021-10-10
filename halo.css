@@ -727,8 +727,20 @@
 }
 /* Shadow */
 
-/* Links */
-.link {
+/* Decoration */
+.underline {
+  text-decoration: underline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.no-underline {
   text-decoration: none;
 }
-/* Links */
+
+.overline {
+  text-decoration: overline;
+}
+/* Decoration */
