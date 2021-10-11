@@ -744,3 +744,162 @@
   text-decoration: overline;
 }
 /* Decoration */
+
+/* Button */
+.button {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: #faf8ef;
+  background-color: #3d405b;
+}
+/* Button */
+
+/* Radius */
+.no-radius {
+  border-radius: 0;
+}
+
+.sm-rounded {
+  border-radius: 0.125rem;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.md-rounded {
+  border-radius: 0.375rem;
+}
+
+.lg-rounded {
+  border-radius: 0.5rem;
+}
+
+.pill {
+  border-radius: 10rem;
+}
+
+.sm-rounded-top {
+  border-radius: 0.125rem 0.125rem 0 0;
+}
+
+.sm-rounded-bot {
+  border-radius: 0 0 0.125rem 0.125rem;
+}
+
+.sm-rounded-left {
+  border-radius: 0.125rem 0 0 0.125rem;
+}
+
+.sm-rounded-right {
+  border-radius: 0 0.125rem 0.125rem 0;
+}
+
+.sm-rounded-top-left {
+  border-radius: 0.125rem 0 0 0;
+}
+
+.sm-rounded-top-right {
+  border-radius: 0 0.125rem 0 0;
+}
+
+.sm-rounded-bot-right {
+  border-radius: 0 0 0.125rem 0;
+}
+
+.sm-rounded-bot-left {
+  border-radius: 0 0 0 0.125rem;
+}
+
+.rounded-top-right {
+  border-radius: 0.25rem 0 0 0;
+}
+
+.rounded-top-left {
+  border-radius: 0 0.25rem 0 0;
+}
+
+.rounded-bot {
+  border-radius: 0 0 0.25rem 0.25rem;
+}
+
+.rounded-bot-right {
+  border-radius: 0 0 0.25rem 0;
+}
+
+.rounded-bot-left {
+  border-radius: 0 0 0 0.25rem;
+}
+
+.md-rounded-top {
+  border-radius: 0.375rem 0.375rem 0 0;
+}
+
+.md-rounded-bot {
+  border-radius: 0 0 0.375rem 0.375rem;
+}
+
+.md-rounded-left {
+  border-radius: 0.375rem 0 0 0.375rem;
+}
+
+.md-rounded-right {
+  border-radius: 0 0.375rem 0.375rem 0;
+}
+
+.md-rounded-top-left {
+  border-radius: 0.375rem 0 0 0;
+}
+
+.md-rounded-top-right {
+  border-radius: 0 0.375rem 0 0;
+}
+
+.md-rounded-bot-right {
+  border-radius: 0 0 0.375rem 0;
+}
+
+.md-rounded-bot-left {
+  border-radius: 0 0 0 0.375rem;
+}
+
+.lg-rounded-top {
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.lg-rounded-bot {
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+
+.lg-rounded-left {
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.lg-rounded-right {
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.lg-rounded-top-left {
+  border-radius: 0.5rem 0 0 0;
+}
+
+.lg-rounded-top-right {
+  border-radius: 0 0.5rem 0 0;
+}
+
+.lg-rounded-bot-right {
+  border-radius: 0 0 0.5rem 0;
+}
+
+.lg-rounded-bot-left {
+  border-radius: 0 0 0 0.5rem;
+}
+/* Radius */
