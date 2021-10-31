@@ -15,9 +15,63 @@
 :root {
   --navy: #001f3f;
 
+  --navy-100: #1F8FFF;
+
+  --navy-200: #0073E6;
+
+  --navy-300: #0057AD;
+
+  --navy-400: #003B75;
+
+  --navy-500: #001F3F;
+
+  --navy-600: #001B36;
+
+  --navy-700: #00172E;
+
+  --navy-800: #001326;
+
+  --navy-900: #000F1F;
+
   --blue: #0074d9;
 
+  --blue-100: #6EBBFF;
+
+  --blue-200: #49AAFF;
+
+  --blue-300: #2599FF;
+
+  --blue-400: #0188FF;
+
+  --blue-500: #0074D9;
+
+  --blue-600: #0066C0;
+
+  --blue-700: #0058A4;
+
+  --blue-800: #004989;
+
+  --blue-900: #003A6E;
+
   --aqua: #7fdbff;
+
+  --aqua-100: #BFEDFF;
+
+  --aqua-200: #AFE8FF;
+
+  --aqua-300: #9FE4FF;
+
+  --aqua-400: #8FDFFF;
+
+  --aqua-500: #7FDBFF;
+
+  --aqua-600: #50CDFF;
+
+  --aqua-700: #20C0FF;
+
+  --aqua-800: #00ABEF;
+
+  --aqua-900: #0089BF;
 
   --teal: #39cccc;
 
