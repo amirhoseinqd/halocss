@@ -175,53 +175,123 @@
 
   --orange: #ff851b;
 
-  --orange-100: #FFC28C;
+  --orange-100: #ffc28c;
 
-  --orange-200: #FFB370;
+  --orange-200: #ffb370;
 
-  --orange-300: #FFA353;
+  --orange-300: #ffa353;
 
-  --orange-400: #FF9436;
+  --orange-400: #ff9436;
 
-  --orange-500: #FF851B;
+  --orange-500: #ff851b;
 
-  --orange-600: #F57300;
+  --orange-600: #f57300;
 
-  --orange-700: #D26200;
+  --orange-700: #d26200;
 
-  --orange-800: #AF5200;
+  --orange-800: #af5200;
 
-  --orange-900: #8C4100;
+  --orange-900: #8c4100;
 
   --yellow: #ffdc00;
 
-  --yellow-100: #FFEE80;
+  --yellow-100: #ffee80;
 
-  --yellow-200: #FFEA60;
+  --yellow-200: #ffea60;
 
-  --yellow-300: #FFE540;
+  --yellow-300: #ffe540;
 
-  --yellow-400: #FFE120;
+  --yellow-400: #ffe120;
 
-  --yellow-500: #FFDC00;
+  --yellow-500: #ffdc00;
 
-  --yellow-600: #DFC100;
+  --yellow-600: #dfc100;
 
-  --yellow-700: #BFA600;
+  --yellow-700: #bfa600;
 
-  --yellow-800: #9F8A00;
+  --yellow-800: #9f8a00;
 
-  --yellow-900: #806E00;
+  --yellow-900: #806e00;
 
   --olive: #3d9970;
 
+  --olive-100: #95d5b8;
+
+  --olive-200: #7bcaa7;
+
+  --olive-300: #60c095;
+
+  --olive-400: #48b483;
+
+  --olive-500: #3d9970;
+
+  --olive-600: #358662;
+
+  --olive-700: #2e7354;
+
+  --olive-800: #266046;
+
+  --olive-900: #1f4d38;
+
   --green: #2ecc40;
+
+  --green-100: #95e79f;
+
+  --green-200: #7be186;
+
+  --green-300: #60db6e;
+
+  --green-400: #46d556;
+
+  --green-500: #2ecc40;
+
+  --green-600: #28b239;
+
+  --green-700: #239930;
+
+  --green-800: #1d7f28;
+
+  --green-900: #176620;
 
   --lime: #01ff70;
 
+  --lime-100: #80ffb7;
+
+  --lime-200: #60ffa5;
+
+  --lime-300: #40ff93;
+
+  --lime-400: #20ff81;
+
+  --lime-500: #01ff70;
+
+  --lime-600: #00df61;
+
+  --lime-700: #00bf53;
+
+  --lime-800: #009f45;
+
+  --lime-900: #008037;
+
   --gray: #aaaaaa;
 
-  --silver: #dddddd;
+  --gray-100: #d5d5d5;
+
+  --gray-200: #cacaca;
+
+  --gray-300: #c0c0c0;
+
+  --gray-400: #b5b5b5;
+
+  --gray-500: #aaaaaa;
+
+  --gray-600: #959595;
+
+  --gray-700: #808080;
+
+  --gray-800: #6b6b6b;
+
+  --gray-900: #555555;
 
   --white: #ffffff;
 
