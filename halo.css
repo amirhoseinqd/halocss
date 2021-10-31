@@ -11,6 +11,44 @@
 }
 /* Global Styles */
 
+/* Colors */
+:root {
+  --navy: #001f3f;
+
+  --blue: #0074d9;
+
+  --aqua: #7fdbff;
+
+  --teal: #39cccc;
+
+  --purple: #b10dc9;
+
+  --fuchsia: #f012be;
+
+  --maroon: #85144b;
+
+  --red: #ff4136;
+
+  --orange: #ff851b;
+
+  --yellow: #ffdc00;
+
+  --olive: #3d9970;
+
+  --green: #2ecc40;
+
+  --lime: #01ff70;
+
+  --black: #111111;
+
+  --gray: #aaaaaa;
+
+  --silver: #dddddd;
+
+  --white: #ffffff;
+}
+/* Colors */
+
 /* Directions */
 .ltr {
   direction: ltr;
