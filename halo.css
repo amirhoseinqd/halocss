@@ -15,107 +15,143 @@
 :root {
   --navy: #001f3f;
 
-  --navy-100: #1F8FFF;
+  --navy-100: #1f8fff;
 
-  --navy-200: #0073E6;
+  --navy-200: #0073e6;
 
-  --navy-300: #0057AD;
+  --navy-300: #0057ad;
 
-  --navy-400: #003B75;
+  --navy-400: #003b75;
 
-  --navy-500: #001F3F;
+  --navy-500: #001f3f;
 
-  --navy-600: #001B36;
+  --navy-600: #001b36;
 
-  --navy-700: #00172E;
+  --navy-700: #00172e;
 
   --navy-800: #001326;
 
-  --navy-900: #000F1F;
+  --navy-900: #000f1f;
 
   --blue: #0074d9;
 
-  --blue-100: #6EBBFF;
+  --blue-100: #6ebbff;
 
-  --blue-200: #49AAFF;
+  --blue-200: #49aaff;
 
-  --blue-300: #2599FF;
+  --blue-300: #2599ff;
 
-  --blue-400: #0188FF;
+  --blue-400: #0188ff;
 
-  --blue-500: #0074D9;
+  --blue-500: #0074d9;
 
-  --blue-600: #0066C0;
+  --blue-600: #0066c0;
 
-  --blue-700: #0058A4;
+  --blue-700: #0058a4;
 
   --blue-800: #004989;
 
-  --blue-900: #003A6E;
+  --blue-900: #003a6e;
 
   --aqua: #7fdbff;
 
-  --aqua-100: #BFEDFF;
+  --aqua-100: #bfedff;
 
-  --aqua-200: #AFE8FF;
+  --aqua-200: #afe8ff;
 
-  --aqua-300: #9FE4FF;
+  --aqua-300: #9fe4ff;
 
-  --aqua-400: #8FDFFF;
+  --aqua-400: #8fdfff;
 
-  --aqua-500: #7FDBFF;
+  --aqua-500: #7fdbff;
 
-  --aqua-600: #50CDFF;
+  --aqua-600: #50cdff;
 
-  --aqua-700: #20C0FF;
+  --aqua-700: #20c0ff;
 
-  --aqua-800: #00ABEF;
+  --aqua-800: #00abef;
 
-  --aqua-900: #0089BF;
+  --aqua-900: #0089bf;
 
   --teal: #39cccc;
 
-  --teal-100: #9CE5E5;
+  --teal-100: #9ce5e5;
 
-  --teal-200: #83DFDF;
+  --teal-200: #83dfdf;
 
-  --teal-300: #6AD9D9;
+  --teal-300: #6ad9d9;
 
-  --teal-400: #51D2D2;
+  --teal-400: #51d2d2;
 
-  --teal-500: #39CCCC;
+  --teal-500: #39cccc;
 
-  --teal-600: #2FB5B5;
+  --teal-600: #2fb5b5;
 
-  --teal-700: #289B9B;
+  --teal-700: #289b9b;
 
   --teal-800: #218181;
 
-  --teal-900: #1B6767;
+  --teal-900: #1b6767;
 
   --purple: #b10dc9;
 
-  --purple-100: #E574F6;
+  --purple-100: #e574f6;
 
-  --purple-200: #DE51F4;
+  --purple-200: #de51f4;
 
-  --purple-300: #D82EF2;
+  --purple-300: #d82ef2;
 
-  --purple-400: #CF0FEC;
+  --purple-400: #cf0fec;
 
-  --purple-500: #B10DC9;
+  --purple-500: #b10dc9;
 
-  --purple-600: #9A0BB0;
+  --purple-600: #9a0bb0;
 
-  --purple-700: #840A97;
+  --purple-700: #840a97;
 
-  --purple-800: #6E087E;
+  --purple-800: #6e087e;
 
   --purple-900: #580665;
 
   --fuchsia: #f012be;
 
+  --fuchsia-100: #f88ade;
+
+  --fuchsia-200: #f66cd6;
+
+  --fuchsia-300: #f44fcd;
+
+  --fuchsia-400: #f231c5;
+
+  --fuchsia-500: #f012be;
+
+  --fuchsia-600: #d60ea7;
+
+  --fuchsia-700: #b70c8f;
+
+  --fuchsia-800: #990a77;
+
+  --fuchsia-900: #7a0860;
+
   --maroon: #85144b;
+
+  --maroon-100: #e864a4;
+
+  --maroon-200: #e23d8d;
+
+  --maroon-300: #d31f76;
+
+  --maroon-400: #ac1a60;
+
+  --maroon-500: #85144b;
+
+  --maroon-600: #741141;
+
+  --maroon-700: #640f38;
+
+  --maroon-800: #530c2f;
+
+  --maroon-900: #430a25;
 
   --red: #ff4136;
 
