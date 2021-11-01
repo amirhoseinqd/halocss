@@ -298,9 +298,9 @@
 
   --black: #111111;
 
-  --primary-color: #001f3f;
+  --primary-color: #0074D9;
 
-  --secondary-color: #0074D9;
+  --secondary-color: #001f3f;
 }
 /* Colors */
 
@@ -1050,8 +1050,12 @@
   border: none;
   padding: 0.5rem 1rem;
   font-size: 1rem;
-  color: #faf8ef;
-  background-color: #3d405b;
+  color: var(--white);
+  background-color: var(--primary-color);
+}
+
+.button:hover {
+  background-color: var(--blue-600);
 }
 /* Button */
 
