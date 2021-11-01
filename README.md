@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amirhoseinqd/HaloCSS/blob/c11593846d20fed606a03e34ea187a77098eb932/logo.png">
+  <img src="https://github.com/amirhoseinqd/HaloCSS/blob/9159c11a1cef67e46eb5fb9ac50722a1c613fb12/halo.png">
 </p>
 
 
