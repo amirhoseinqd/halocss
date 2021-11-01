@@ -300,6 +300,8 @@
 
   --primary-color: #0074D9;
 
+  --primary-variant: #0066c0;
+
   --secondary-color: #001f3f;
 }
 /* Colors */
@@ -1055,7 +1057,7 @@
 }
 
 .button:hover {
-  background-color: var(--blue-600);
+  background-color: var(--primary-variant);
 }
 /* Button */
 
