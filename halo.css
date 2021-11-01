@@ -8,6 +8,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
 }
 /* Global Styles */
 
@@ -296,6 +297,10 @@
   --white: #ffffff;
 
   --black: #111111;
+
+  --primary-color: #001f3f;
+
+  --secondary-colo: #0074D9;
 }
 /* Colors */
 
